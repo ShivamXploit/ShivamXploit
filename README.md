@@ -39,7 +39,7 @@ I’m a cybersecurity aspirant focused on web security, CTFs, OSINT and detectio
 - Small tools for recon, parsing, and detection
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: your-shivamrajput12200r@gmail.com 
 - Blog / Portfolio: https://your-blog.example.com
 - Twitter / X: @YourHandle
 
